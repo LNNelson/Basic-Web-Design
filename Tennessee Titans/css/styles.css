@@ -71,7 +71,8 @@ img {
     
            h4 {
         text-align: center;
-        color: blue
+        color: black
+        font-family: "Roboto Slab", serif;
      }
     
     footer {
